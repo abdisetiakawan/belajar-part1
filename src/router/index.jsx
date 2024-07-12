@@ -5,11 +5,13 @@ import RootLayout from "../layouts/RootLayouts";
 import Blog from "../pages/blogs";
 import Post from "../pages/blogs/_id"
 import { PostBlog, PostById } from "../apis";
+import ErrorPage from "../components/errorPage";
 
 export const router = createBrowserRouter([
     {
         path: '/',
         element: <RootLayout/>,
+        errorElement: <ErrorPage/>,
         children: [
             {
                 index: true,
