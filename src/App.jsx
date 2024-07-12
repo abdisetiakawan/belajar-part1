@@ -1,4 +1,4 @@
-import './style/style.css';
+import './style/style.css'
 import { GlobalContext } from './context';
 import { router } from './router';
 import { RouterProvider } from 'react-router-dom';

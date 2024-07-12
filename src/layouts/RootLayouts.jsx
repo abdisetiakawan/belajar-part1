@@ -1,9 +1,11 @@
-import { Link, Outlet } from "react-router-dom";
+import { NavLink, Outlet } from "react-router-dom";
 
 export default function RootLayout() {
   return (
     <>
-      <Link to="/">Home🏠</Link> || <Link to='/blog'>Blog📚 || </Link> <Link to="/about">About☎️</Link>
+      <NavLink to="/">Home🏠</NavLink>|| 
+      <NavLink to='/blog'>Blog📚</NavLink>||
+      <NavLink to="/about">About☎️</NavLink>
       <p />
       <Outlet />
     </>
