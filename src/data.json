@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Introduction to React",
+        "tags": ["React", "JavaScript", "Frontend"],
+        "date": "2024-06-10",
+        "isNew": true
+    },
+    {
+        "title": "Building Your First React App",
+        "tags": ["React", "Beginner", "Tutorial"],
+        "date": "2024-06-12",
+        "isNew": false
+    },
+    {
+        "title": "State and Props in React",
+        "tags": ["React", "State Management", "Props"],
+        "date": "2024-06-15",
+        "isNew": false
+    },
+    {
+        "title": "Understanding React Hooks",
+        "tags": ["React", "Hooks", "Functional Components"],
+        "date": "2024-06-20",
+        "isNew": true
+    },
+    {
+        "title": "Advanced React Patterns",
+        "tags": ["React", "Advanced", "Patterns"],
+        "date": "2024-06-25",
+        "isNew": true
+    },
+    {
+        "title": "React Context API for State Management",
+        "tags": ["React", "Context API", "State Management"],
+        "date": "2024-06-30",
+        "isNew": false
+    },
+    {
+        "title": "Optimizing React Performance",
+        "tags": ["React", "Performance", "Optimization"],
+        "date": "2024-07-05",
+        "isNew": true
+    },
+    {
+        "title": "Testing React Applications",
+        "tags": ["React", "Testing", "Jest"],
+        "date": "2024-07-08",
+        "isNew": false
+    },
+    {
+        "title": "Deploying React Apps",
+        "tags": ["React", "Deployment", "CI/CD"],
+        "date": "2024-07-10",
+        "isNew": true
+    },
+    {
+        "title": "Using React with TypeScript",
+        "tags": ["React", "TypeScript", "Frontend"],
+        "date": "2024-07-12",
+        "isNew": true
+    }
+]
